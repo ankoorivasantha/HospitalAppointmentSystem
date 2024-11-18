@@ -1,0 +1,73 @@
+
+Patient Name: Allie
+Age: 40
+Blood Group: O+ve
+Phone Number: 9082763627
+Chosen Slot: Morning
+Doctor: Dr. Ajay Bahadur
+Problem: Heart-related issues
+Total Charges: 1400.0 Rs/-
+
+Patient Name: Bob
+Age: 27
+Blood Group: AB-ve
+Phone Number: 9082767564
+Chosen Slot: Afternoon
+Doctor: Dr. Ritu Sharma
+Problem: Dental issues
+Total Charges: 500.0 Rs/-
+
+Patient Name: Charlie
+Age: 65
+Blood Group: B+ve
+Phone Number: 9076287552
+Chosen Slot: Evening
+Doctor: Dr. Hrishikesh Pai
+Problem: Women's health issues
+Total Charges: 1400.0 Rs/-
+
+Patient Name: Dallie
+Age: 37
+Blood Group: AB+ve
+Phone Number: 6726726356
+Chosen Slot: Morning
+Doctor: Dr. Ajay Bahadur
+Problem: Heart-related issues
+Total Charges: 500.0 Rs/-
+
+Patient Name: Ennei
+Age: 24
+Blood Group: O+ve
+Phone Number: 6352622567
+Chosen Slot: Afternoon
+Doctor: Dr. Ritu Sharma
+Problem: Dental issues
+Total Charges: 1400.0 Rs/-
+
+Patient Name: Finny
+Age: 78
+Blood Group: B-ve
+Phone Number: 8989276789
+Chosen Slot: Evening
+Doctor: Dr. Hrishikesh Pai
+Problem: Women's health issues
+Total Charges: 500.0 Rs/-
+
+Patient Name: Gin
+Age: 55
+Blood Group: A+ve
+Phone Number: 8889897870
+Chosen Slot: Afternoon
+Doctor: Dr. Ritu Sharma
+Problem: Dental issues
+Total Charges: 500.0 Rs/-
+
+Patient Name: Harry
+Age: 40
+Blood Group: O+ve
+Phone Number: 9098247865
+Chosen Slot: Evening
+Doctor: Dr. Hrishikesh Pai
+Problem: Women's health issues
+Total Charges: 1400.0 Rs/-
+
